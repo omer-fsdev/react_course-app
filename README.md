@@ -21,7 +21,7 @@ This is a website for a course company, built using React. The app allows users 
 ## Deployment
 
 The website is deployed and accessible at the following link:
-[YourWay: Course App](https://your-deployed-url.com)
+[YourWay: Course App](https://yourway-course.netlify.app)
 
 You can visit the deployed website and start exploring the courses offered.
 
