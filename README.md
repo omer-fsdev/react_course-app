@@ -1,12 +1,3 @@
-## Course App
-
-- React
-- useState, useEffect
-- useNavigate, useParams
-- React Router
-- Bootstrap
-- React-Bootstrap
-
 # Course App
 
 This is a website for a course company, built using React. The app allows users to explore in various courses offered by the company.
